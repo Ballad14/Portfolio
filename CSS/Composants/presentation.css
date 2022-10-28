@@ -1,0 +1,16 @@
+.presentation{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.presentationImage{
+    width: 20%;
+}
+
+.snowden{
+    width: 15%;
+}

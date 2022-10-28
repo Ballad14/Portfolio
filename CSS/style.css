@@ -1,0 +1,17 @@
+@import url('Composants/titre.css');
+@import url('Composants/presentation.css');
+@import url('Composants/nav.css');
+
+*{
+    background-color: bisque;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.video{
+    width: 100%;
+    align-content: center;
+}
